@@ -2,6 +2,8 @@
 
 Cosine Similarity App
 
+Run program via CMD java -jar cosine.jar
+
 This application calculates the similarity between a main document and other documents. 
 It calculates the document character frequency of all documents via a HashMap with an another document . 
 The results create a tf-idf vector for each document. (i.e. term frequency–inverse document frequency = term frequency * inverse document frequency).
